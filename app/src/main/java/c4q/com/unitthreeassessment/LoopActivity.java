@@ -18,6 +18,8 @@ public class LoopActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_loop);
 
+
+
     }
 
     private class Async extends AsyncTask<Integer,Integer,Integer> {
